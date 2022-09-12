@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-VivoxCore.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Unreal Proyects\Cpp_projects\FPSchatTest\Intermediate\Build\Win64\FPSchatTestEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\Unreal Proyects\Cpp_projects\FPSchatTest\Plugins\VivoxCoreUE4Plugin\Intermediate\Build\Win64\UnrealEditor\Development\VivoxCore\Module.VivoxCore.cpp.obj"
+"E:\Unreal Proyects\Cpp_projects\FPSchatTest\Plugins\VivoxCoreUE4Plugin\Intermediate\Build\Win64\UnrealEditor\Development\VivoxCore\Module.VivoxCore.gen.cpp.obj"
+"E:\Unreal Proyects\Cpp_projects\FPSchatTest\Plugins\VivoxCoreUE4Plugin\Intermediate\Build\Win64\UnrealEditor\Development\VivoxCore\Default.rc2.res"
+/OUT:"E:\Unreal Proyects\Cpp_projects\FPSchatTest\Plugins\VivoxCoreUE4Plugin\Intermediate\Build\Win64\UnrealEditor\Development\VivoxCore\UnrealEditor-VivoxCore.lib"

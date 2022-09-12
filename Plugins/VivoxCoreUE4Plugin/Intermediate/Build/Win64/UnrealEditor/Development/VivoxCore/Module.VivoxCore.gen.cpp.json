@@ -1,0 +1,38 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\unreal proyects\\cpp_projects\\fpschattest\\plugins\\vivoxcoreue4plugin\\intermediate\\build\\win64\\unrealeditor\\development\\vivoxcore\\module.vivoxcore.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\unreal proyects\\cpp_projects\\fpschattest\\intermediate\\build\\win64\\fpschattesteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\unreal proyects\\cpp_projects\\fpschattest\\plugins\\vivoxcoreue4plugin\\intermediate\\build\\win64\\unrealeditor\\development\\vivoxcore\\definitions.vivoxcore.h",
+            "e:\\unreal proyects\\cpp_projects\\fpschattest\\plugins\\vivoxcoreue4plugin\\intermediate\\build\\win64\\unrealeditor\\inc\\vivoxcore\\audiodeviceimpl.gen.cpp",
+            "e:\\unreal proyects\\cpp_projects\\fpschattest\\plugins\\vivoxcoreue4plugin\\source\\vivoxcore\\private\\audiodeviceimpl.h",
+            "e:\\unreal proyects\\cpp_projects\\fpschattest\\plugins\\vivoxcoreue4plugin\\source\\vivoxcore\\public\\iaudiodevices.h",
+            "e:\\unreal proyects\\cpp_projects\\fpschattest\\plugins\\vivoxcoreue4plugin\\source\\vivoxcore\\public\\iaudiodevice.h",
+            "e:\\unreal proyects\\cpp_projects\\fpschattest\\plugins\\vivoxcoreue4plugin\\source\\vivoxcore\\public\\vivoxcorecommon.h",
+            "e:\\unreal proyects\\cpp_projects\\fpschattest\\plugins\\vivoxcoreue4plugin\\source\\vivoxcore\\public\\vivoxconfig.h",
+            "e:\\unreal proyects\\cpp_projects\\fpschattest\\plugins\\vivoxcoreue4plugin\\source\\thirdparty\\vivoxcorelibrary\\windows\\include\\vxc.h",
+            "e:\\unreal proyects\\cpp_projects\\fpschattest\\plugins\\vivoxcoreue4plugin\\source\\thirdparty\\vivoxcorelibrary\\windows\\include\\vxcexports.h",
+            "e:\\unreal proyects\\cpp_projects\\fpschattest\\plugins\\vivoxcoreue4plugin\\source\\thirdparty\\vivoxcorelibrary\\windows\\include\\vxctypes.h",
+            "e:\\unreal proyects\\cpp_projects\\fpschattest\\plugins\\vivoxcoreue4plugin\\source\\vivoxcore\\public\\accountid.h",
+            "e:\\unreal proyects\\cpp_projects\\fpschattest\\plugins\\vivoxcoreue4plugin\\source\\vivoxcore\\public\\channelid.h",
+            "e:\\unreal proyects\\cpp_projects\\fpschattest\\plugins\\vivoxcoreue4plugin\\source\\vivoxcore\\public\\channel3dproperties.h",
+            "e:\\unreal proyects\\cpp_projects\\fpschattest\\plugins\\vivoxcoreue4plugin\\source\\vivoxcore\\public\\presence.h",
+            "e:\\unreal proyects\\cpp_projects\\fpschattest\\plugins\\vivoxcoreue4plugin\\source\\vivoxcore\\public\\connectionstate.h",
+            "e:\\unreal proyects\\cpp_projects\\fpschattest\\plugins\\vivoxcoreue4plugin\\intermediate\\build\\win64\\unrealeditor\\inc\\vivoxcore\\channel3dproperties.gen.cpp",
+            "e:\\unreal proyects\\cpp_projects\\fpschattest\\plugins\\vivoxcoreue4plugin\\intermediate\\build\\win64\\unrealeditor\\inc\\vivoxcore\\channelid.gen.cpp",
+            "e:\\unreal proyects\\cpp_projects\\fpschattest\\plugins\\vivoxcoreue4plugin\\intermediate\\build\\win64\\unrealeditor\\inc\\vivoxcore\\connectionstate.gen.cpp",
+            "e:\\unreal proyects\\cpp_projects\\fpschattest\\plugins\\vivoxcoreue4plugin\\intermediate\\build\\win64\\unrealeditor\\inc\\vivoxcore\\iloginsession.gen.cpp",
+            "e:\\unreal proyects\\cpp_projects\\fpschattest\\plugins\\vivoxcoreue4plugin\\source\\vivoxcore\\public\\iloginsession.h",
+            "e:\\unreal proyects\\cpp_projects\\fpschattest\\plugins\\vivoxcoreue4plugin\\source\\vivoxcore\\public\\itexttospeech.h",
+            "e:\\unreal proyects\\cpp_projects\\fpschattest\\plugins\\vivoxcoreue4plugin\\source\\vivoxcore\\public\\ittsmessage.h",
+            "e:\\unreal proyects\\cpp_projects\\fpschattest\\plugins\\vivoxcoreue4plugin\\source\\vivoxcore\\public\\ittsvoice.h",
+            "e:\\unreal proyects\\cpp_projects\\fpschattest\\plugins\\vivoxcoreue4plugin\\intermediate\\build\\win64\\unrealeditor\\inc\\vivoxcore\\ittsmessage.gen.cpp",
+            "e:\\unreal proyects\\cpp_projects\\fpschattest\\plugins\\vivoxcoreue4plugin\\intermediate\\build\\win64\\unrealeditor\\inc\\vivoxcore\\presence.gen.cpp",
+            "e:\\unreal proyects\\cpp_projects\\fpschattest\\plugins\\vivoxcoreue4plugin\\intermediate\\build\\win64\\unrealeditor\\inc\\vivoxcore\\vivoxcore.init.gen.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
