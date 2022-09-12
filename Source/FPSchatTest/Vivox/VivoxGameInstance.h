@@ -1,7 +1,7 @@
 ﻿// Fill out your copyright notice in the Description page of Project Settings.
 
 #pragma once
-
+/*
 #include "CoreMinimal.h"
 #include "VivoxCore/Public/VivoxCore.h"
 #include "VivoxGameInstance.generated.h"
@@ -56,4 +56,4 @@ public:
 	virtual void Init() override;
 	virtual void Shutdown() override;
 	virtual void StartGameInstance() override;
-};
+};*/
